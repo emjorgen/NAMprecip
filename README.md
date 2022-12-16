@@ -4,10 +4,12 @@ Author:
   Ellen May Jorgensen
   
 **Using Canonical Correlation Analysis to Relate Pacific Warming to Integrated Vapor Transport**
+
 Ellen May Jorgensen, _Syracuse University_
 December 16, 2022
 
 **Introduction**
+
  Changes to precipitation as a result of a warming climate are difficult to characterize globally, as different precipitation systems are controlled by different mechanisms. The American Southwest’s annual precipitation is dominated by the North American monsoon, receiving 70% of its annual precipitation during the summer. Throughout most of the year, this region is extremely dry. ​​The monsoon system delivers extreme precipitation events throughout July, August, and September. When these extreme precipitation events occur after months of aridity, extreme erosion leads to mudslides and other hazards. Slot canyons in the American Southwest are flushed with run off and create dangerous flash flood events that can carry away vegetation and even people. The American Southwest has adapted to rely on these extreme oscillations in precipitation and the region relies on summer months to fill reservoirs and provide water resources for the rest of the year. Low-level moisture in the North American Monsoon is fed by cold water from the Gulf of California. Warm upper-level moisture is sourced from the Gulf of Mexico. Lower-level moisture from the Gulf of California is pushed up by the Sierra Madre Occidental in northwestern Mexico to rise to mid to high-level altitudes, where it mixes with moisture from the Gulf of Mexico and redistributes as precipitation over the American Southwest. The system is strongest in the foothills of the Sierra Madre, but moves North until it falters against cold California water and atmospheric subsidence. The system trails off in Arizona, Colorado, and New Mexico, and rainfall in these areas is more variable (Adams & Comrie, 1997).
  
 Pascale et al. (2017) postulate that increased sea surface temperatures will weaken convection as the climate system stabilizes. The North American Monsoon relies on convection of cold input from the Gulf of California and warm input from the Gulf of Mexico in order to occur. A change to this system would be devastating to the American Southwest, which relies on summer rainfall for annual water resources. In this study, Pascale et al. find a significant reduction in summer rainfall under a doubling of atmospheric carbon dioxide (Pascale et al., 2017).
@@ -56,10 +58,17 @@ Through our analysis, we found that warming itself does not consistently change 
 **References**
 
 Adams, D., & Comrie, A. (1997). The North American Monsoon. Bulletin of the American Meteorological Society, 78, 2197–2213. https://doi.org/10.1175/1520-0477(1997)078<2197:TNAM>2.0.CO;2
+
 Bhattacharya, T., Feng, R., Tierney, J. E., Rubbelke, C., Burls, N., Knapp, S., & Fu, M. (2022). Expansion and Intensification of the North American Monsoon During the Pliocene. AGU Advances, 3(6), e2022AV000757. https://doi.org/10.1029/2022AV000757
+
 Bhattacharya, T., Tierney, J. E., Addison, J. A., & Murray, J. W. (2018). Ice-sheet modulation of deglacial North American monsoon intensification. Nature Geoscience, 11(11), Article 11. https://doi.org/10.1038/s41561-018-0220-7
+
 Chonghua, Y. (2018). Identify Patterns in the Coupled Fields of SLP and SST through Canonical Correlation Analysis. https://github.com/royalosyin/Python-Practical-Application-on-Climate-Variability-Studies/blob/master/ex29-Identify%20Patterns%20in%20the%20Coupled%20Fields%20of%20SLP%20and%20SST%20through%20Canonical%20Correlation%20Analysis.ipynb
+
 Frölicher, T. L., & Laufkötter, C. (2018). Emerging risks from marine heat waves. Nature Communications, 9(1), Article 1. https://doi.org/10.1038/s41467-018-03163-6
+
 Korstanje, J. (2021, July 8). Canonical Correlation Analysis. Medium. https://towardsdatascience.com/canonical-correlation-analysis-b1a38847219d
+
 Pandey, G. R., Cayan, D. R., & Georgakakos, K. P. (1999). Precipitation structure in the Sierra Nevada of California during winter. Journal of Geophysical Research: Atmospheres, 104(D10), 12019–12030. https://doi.org/10.1029/1999JD900103
+
 Pascale, S., Boos, W. R., Bordoni, S., Delworth, T. L., Kapnick, S. B., Murakami, H., Vecchi, G. A., & Zhang, W. (2017). Weakening of the North American monsoon with global warming. Nature Climate Change, 7(11), Article 11. https://doi.org/10.1038/nclimate3412
